@@ -1,6 +1,6 @@
 
 # Tulip festivals 
-## In AUstralia
+## In AUstralia  
 >Tulip festivals are held in several cities around the world, 
 mostly in North America, usually in cities with a Dutch heritage
  such as Albany, New York, Ottawa, Ontario; Gatineau, Quebec; 
@@ -12,6 +12,6 @@ mostly in North America, usually in cities with a Dutch heritage
 coincide with the actual festival due to climatic conditions 
 
 
-## some photos
+## some photos for reference
 
 ![tulip garden](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bed_of_tulips_at_a_Tulip_Festival.JPG/200px-Bed_of_tulips_at_a_Tulip_Festival.JPG )   ![tulip photo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Garden_of_the_Provinces_and_Territories_-_Tulip_Festival_-_2.jpg/200px-Garden_of_the_Provinces_and_Territories_-_Tulip_Festival_-_2.jpg)
